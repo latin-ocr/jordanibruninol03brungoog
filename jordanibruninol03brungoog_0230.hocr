@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./jordanibruninol03brungoog_0230.png"; bbox 0 0 3414 5122; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 462 1982 1153 2046">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 462 1982 1153 2046">
+     <span class='ocr_line' id='line_1_1' title="bbox 462 1982 1153 2046; baseline 0.004 -3"><span class='ocrx_word' id='word_1_1' title='bbox 462 1982 635 2045; x_wconf 78' lang='lat' dir='ltr'><strong>OENTVM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 666 1985 720 2045; x_wconf 76' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 749 1983 919 2046; x_wconf 80' lang='lat' dir='ltr'>VIGINTI</span> <span class='ocrx_word' id='word_1_4' title='bbox 948 1983 1153 2046; x_wconf 82' lang='lat' dir='ltr'>ARTIOVLI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 366 2272 1251 2372">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 366 2272 1251 2372">
+     <span class='ocr_line' id='line_1_2' title="bbox 366 2272 1251 2372; baseline 0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 366 2273 455 2369; x_wconf 84' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 509 2272 798 2368; x_wconf 78' lang='lat' dir='ltr'><strong>NATVRA</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 850 2273 933 2369; x_wconf 83' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 986 2273 1251 2372; x_wconf 90' lang='lat' dir='ltr'><strong>MVNDO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1712 5122">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1712 5122">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1712 5122; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1712 5122; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
